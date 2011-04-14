@@ -1,0 +1,16 @@
+bin
+obj
+Debug
+Release
+*.opensdf
+*.sdf
+*.opensdf
+*ReSharper*
+*.csproj.user
+*.vcxproj.user
+*.resharper.user
+*.resharper
+*.suo
+*.cache
+*~
+*.swp
